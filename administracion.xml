@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<administracion>
+	<administracion_row>
+		<dbms>MSOLEDBSQL SQL Server</dbms>
+		<database>administracion</database>
+		<servername>SERVERHAS</servername>
+		<ciudad>LI</ciudad>
+		<planta>VI</planta>
+		<carga>D:\Firth\Sistemas\administracion\carga</carga>
+		<descarga>D:\Firth\Sistemas\administracion\descarga</descarga>
+		<conodbc>D:\Firth\Sistemas\administracion\descarga</conodbc>
+		<dbusrv></dbusrv>
+		<dbpsrv></dbpsrv>
+	</administracion_row>
+	<administracion_row>
+		<dbms>MSOLEDBSQL SQL Server</dbms>
+		<database>programacion</database>
+		<servername>SERVERHAS</servername>
+		<ciudad>LI</ciudad>
+		<planta>VI</planta>
+		<carga>D:\Firth\Sistemas\administracion\carga</carga>
+		<descarga>D:\Firth\Sistemas\administracion\descarga</descarga>
+		<conodbc>D:\Firth\Sistemas\administracion\descarga</conodbc>
+		<dbusrv></dbusrv>
+		<dbpsrv></dbpsrv>
+	</administracion_row>
+	<administracion_row>
+		<dbms>MSOLEDBSQL SQL Server</dbms>
+		<database>seguridad</database>
+		<servername>SERVERHAS</servername>
+		<ciudad>LI</ciudad>
+		<planta>VI</planta>
+		<carga>D:\Firth\Sistemas\administracion\carga</carga>
+		<descarga>D:\Firth\Sistemas\administracion\descarga</descarga>
+		<conodbc>D:\Firth\Sistemas\administracion\descarga</conodbc>
+		<dbusrv></dbusrv>
+		<dbpsrv></dbpsrv>
+	</administracion_row>
+	<administracion_row>
+		<dbms>MSOLEDBSQL SQL Server</dbms>
+		<database>auditoria</database>
+		<servername>SERVERHAS</servername>
+		<ciudad>LI</ciudad>
+		<planta>VI</planta>
+		<carga>D:\Firth\Sistemas\administracion\carga</carga>
+		<descarga>D:\Firth\Sistemas\administracion\descarga</descarga>
+		<conodbc>D:\Firth\Sistemas\administracion\descarga</conodbc>
+		<dbusrv></dbusrv>
+		<dbpsrv></dbpsrv>
+	</administracion_row>
+	<administracion_row>
+		<dbms>MSOLEDBSQL SQL Server</dbms>
+		<database>Logistica</database>
+		<servername>SERVERHAS</servername>
+		<ciudad>LI</ciudad>
+		<planta>VI</planta>
+		<carga>D:\Firth\Sistemas\administracion\carga</carga>
+		<descarga>D:\Firth\Sistemas\administracion\descarga</descarga>
+		<conodbc>D:\Firth\Sistemas\administracion\descarga</conodbc>
+		<dbusrv></dbusrv>
+		<dbpsrv></dbpsrv>
+	</administracion_row>
+	<administracion_row>
+		<dbms>MSOLEDBSQL SQL Server</dbms>
+		<database>Wap</database>
+		<servername>SERVERHAS</servername>
+		<ciudad>LI</ciudad>
+		<planta>VI</planta>
+		<carga>D:\Firth\Sistemas\administracion\carga</carga>
+		<descarga>D:\Firth\Sistemas\administracion\descarga</descarga>
+		<conodbc>D:\Firth\Sistemas\administracion\descarga</conodbc>
+		<dbusrv></dbusrv>
+		<dbpsrv></dbpsrv>
+	</administracion_row>
+	<administracion_row>
+		<dbms>MSOLEDBSQL SQL Server</dbms>
+		<database>planillas</database>
+		<servername>SERVERHAS</servername>
+		<ciudad>LI</ciudad>
+		<planta>VI</planta>
+		<carga>D:\Firth\Sistemas\administracion\carga</carga>
+		<descarga>D:\Firth\Sistemas\administracion\descarga</descarga>
+		<conodbc>D:\Firth\Sistemas\administracion\descarga</conodbc>
+		<dbusrv></dbusrv>
+		<dbpsrv></dbpsrv>
+	</administracion_row>
+	<administracion_row>
+		<dbms>MSOLEDBSQL SQL Server</dbms>
+		<database>seguridad</database>
+		<servername>SERVERHAS</servername>
+		<ciudad>LI</ciudad>
+		<planta>VI</planta>
+		<carga>05</carga>
+		<descarga>D:\Firth\Sistemas\administracion\descarga</descarga>
+		<conodbc>D:\Firth\Sistemas\administracion\descarga</conodbc>
+		<dbusrv>332030011002022002003002</dbusrv>
+		<dbpsrv>222023029031026007023031</dbpsrv>
+	</administracion_row>
+	<administracion_row>
+		<dbms>MSOLEDBSQL SQL Server</dbms>
+		<database>seguridad</database>
+		<servername>SERVERHAS</servername>
+		<ciudad>LI</ciudad>
+		<planta>VI</planta>
+		<carga>05</carga>
+		<descarga>D:\Firth\Sistemas\administracion\descarga</descarga>
+		<conodbc>D:\Firth\Sistemas\administracion\descarga</conodbc>
+		<dbusrv>776026006011017011013011</dbusrv>
+		<dbpsrv>996018001003011012012011019034021</dbpsrv>
+	</administracion_row>
+	<administracion_row>
+		<dbms>MSOLEDBSQL SQL Server</dbms>
+		<database>planillas</database>
+         	<servername>SERVERHAS</servername>
+		<ciudad>LI</ciudad>
+		<planta>VI</planta>
+		<carga>05</carga>
+		<descarga>D:\Firth\Sistemas\administracion\descarga</descarga>
+		<conodbc>D:\Firth\Sistemas\administracion\descarga</conodbc>
+		<dbusrv>776026006011017011013011</dbusrv>
+		<dbpsrv>996018001003011012012011019034021</dbpsrv>
+	</administracion_row>
+</administracion>

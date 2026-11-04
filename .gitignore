@@ -1,0 +1,12 @@
+/BMPS/
+/EJECUTABLE/
+/IMAGENES/
+/PIC/
+
+*.dll
+*.log
+*.txt
+*.ocx
+*.exe
+*.pbx
+
